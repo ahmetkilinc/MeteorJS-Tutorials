@@ -9,3 +9,5 @@ How to install (Windows):
 2- install meteor:
   choco install meteor
   
+3- create new meteor app:
+  meteor create newAppName
