@@ -12,8 +12,8 @@ How to install (Windows):
 3- create new meteor app:
   meteor create newAppName
   
-4- remove blaze html templates:
+4- remove blaze html templates: (if you dont want to use blaze as a template language)
   meteor remove blaze-html-templates
 
-5- add angular templates:
+5- add angular templates: (if you desire to use Angular. You can use React or Vue, too.)
   meteor add angular-templates
